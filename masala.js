@@ -48,6 +48,8 @@
 // };
 // console.log(countSheep(3));
 
+// Masala 5
+
 // function Ketti(str) {
 //   return str
 //     .split(" ")
@@ -56,3 +58,21 @@
 // }
 
 // console.log(Ketti("salom mening ismim sanjarbek"));
+
+// Masala 6
+// function DNAtoRNA(dna) {
+//   return dna
+//     .split("")
+//     .map((saidjon) => (saidjon === "T" ? "U" : saidjon))
+//     .join("");
+// }
+// console.log(DNAtoRNA("GATTACA"));
+
+// Masala 7
+// function reverseWords(str) {
+//   return str
+//     .split(" ")
+//     .map((sanjar) => sanjar.split("").reverse("").join(""))
+//     .join(" ");
+// }
+// console.log(reverseWords("Saidjon stremer bo'lishni hohlaydi"));
