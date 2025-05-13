@@ -76,3 +76,40 @@
 //     .join(" ");
 // }
 // console.log(reverseWords("Saidjon stremer bo'lishni hohlaydi"));
+
+// Masala 8
+
+// function printArray(array) {
+//   return array.join(",");
+// }
+// console.log(printArray(["h", "o", "l", "a"]));
+
+// Masala 9
+
+// function isOpposite(s1, s2) {
+//   if (s1 === "" && s2 === "") return false;
+
+//   return (
+//     s1.length === s2.length &&
+//     s1.split("").every((harf, i) => {
+//       return harf !== s2[i] && harf.toLowerCase() === s2[i].toLowerCase();
+//     })
+//   );
+// }
+// console.log(isOpposite("ab", "AB"));
+
+// Masal 10
+
+// function bmi(weight, height) {
+//   let reuslt = weight / height ** 2;
+//   if (reuslt <= 18.5) {
+//     return "Underweight";
+//   } else if (reuslt <= 25.0) {
+//     return "Normal";
+//   } else if (reuslt <= 30.0) {
+//     return "Overweight";
+//   } else {
+//     return "Obese";
+//   }
+// }
+// console.log(bmi(50, 150));
