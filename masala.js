@@ -98,7 +98,7 @@
 // }
 // console.log(isOpposite("ab", "AB"));
 
-// Masal 10
+// Masala10
 
 // function bmi(weight, height) {
 //   let reuslt = weight / height ** 2;
@@ -113,3 +113,26 @@
 //   }
 // }
 // console.log(bmi(50, 150));
+
+// Masala 11
+
+// function findUniq(arr) {
+//   let son = arr[0] === arr[1] ? arr[0] : arr[2];
+
+//   for (let i = 0; i < arr.length; i++) {
+//     if (arr[i] !== son) {
+//       return arr[i];
+//     }
+//   }
+// }
+// console.log(findUniq([1, 1, 1, 2, 1]));
+
+// Masala 12
+
+// function isPangram(string) {
+//   string = string.toLowerCase();
+//   let a = string.split("").filter((str) => str >= "a" && str <= "z");
+//   let harf = new Set(a);
+//   return harf.size === 26;
+// }
+// console.log(isPangram("The quick brown fox jumps over the lazy dog"));
