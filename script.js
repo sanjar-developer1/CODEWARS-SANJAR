@@ -35,20 +35,3 @@
 // Math.random()	0–1 oralig‘ida tasodifiy son	Math.random()
 // Math.pow(a,b)	Darajaga ko‘taradi	Math.pow(2,3) → 8
 // Math.sqrt()	Ildiz ostini oladi	Math.sqrt(25) → 5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

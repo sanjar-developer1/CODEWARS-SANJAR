@@ -136,3 +136,31 @@
 //   return harf.size === 26;
 // }
 // console.log(isPangram("The quick brown fox jumps over the lazy dog"));
+
+// Masala 13
+
+// function digitize(n) {
+//   n = String(n);
+//   let a = n.split("").reverse();
+//   a = Number(a);
+//   console.log(a);
+// }
+
+// digitize(1233287238);
+
+// Masala 14
+
+// function getSum(a, b) {
+//   let min = Math.min(a, b);
+//   let max = Math.max(a, b);
+
+//   let hammasi = 0;
+
+//   for (let i = min; i <= max; i++) {
+//     hammasi += i;
+//   }
+
+//   console.log(hammasi);
+// }
+
+// getSum(1, 4);

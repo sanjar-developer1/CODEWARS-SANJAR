@@ -40,3 +40,9 @@ Shu str ichida barcha harflar (a dan z gacha) borligini tekshirish kerak.
 
 Agar ha — true qaytar.
 Agar yo‘q — false qaytar.
+
+Masala 13:
+bizda bitta son keladi biz uni arrayga aylantirib teskari qilishimz kerak
+
+Masala 14:
+Ikki son a va b berilgan bo‘lsa, ular orasidagi hamma butun sonlarni (shu jumladan o‘zlarini ham) qo‘shib chiqamiz. Agar ular teng bo‘lsa, javob shunchaki o‘sha son bo‘ladi.
