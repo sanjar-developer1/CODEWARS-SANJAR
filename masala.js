@@ -164,3 +164,30 @@
 // }
 
 // getSum(1, 4);
+
+// Masala 15
+
+// const reverseSeq = (n) => {
+//   let result = [];
+//   for (let i = n; i >= 1; i--) {
+//     result.push(i);
+//   }
+//   return result;
+// };
+// console.log(reverseSeq(9));
+
+// Masala 16
+
+// function getCount(str) {
+//   let vowels = "aeiou";
+//   let count = 0;
+
+//   for (let harf of str) {
+//     if (vowels.includes(harf)) {
+//       count++;
+//     }
+//   }
+//   return count;
+// }
+
+// console.log(getCount("salomat"));

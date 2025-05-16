@@ -46,3 +46,10 @@ bizda bitta son keladi biz uni arrayga aylantirib teskari qilishimz kerak
 
 Masala 14:
 Ikki son a va b berilgan bo‘lsa, ular orasidagi hamma butun sonlarni (shu jumladan o‘zlarini ham) qo‘shib chiqamiz. Agar ular teng bo‘lsa, javob shunchaki o‘sha son bo‘ladi.
+
+Masala 15:
+musbat soni berilgan. Shu sondan 1 gacha bo‘lgan sonlarni kamayish tartibida array (massiv) ichida qaytaradigan funksiya yoz.
+
+Masala 16:
+Senga faqat kichik harflar va bo‘sh joylar (" ") dan iborat string beriladi.
+Sen nechta unli harf (a, e, i, o, u) borligini hisoblab berishing kerak.
