@@ -53,3 +53,9 @@ musbat soni berilgan. Shu sondan 1 gacha bo‘lgan sonlarni kamayish tartibida a
 Masala 16:
 Senga faqat kichik harflar va bo‘sh joylar (" ") dan iborat string beriladi.
 Sen nechta unli harf (a, e, i, o, u) borligini hisoblab berishing kerak.
+
+Masala 17:
+har bir sonni tekshirish kerak: u a, e, i, o, u harflarining char codeiga teng bo‘lsa, uni o‘sha harfga almashtirish kerak.
+
+Masala 18:
+Bizga function keladi undan bitta isim keladi biz uni "Salom 'name' ahvollaring qalay" deyishimiz kerak

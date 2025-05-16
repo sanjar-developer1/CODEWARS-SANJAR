@@ -191,3 +191,19 @@
 // }
 
 // console.log(getCount("salomat"));
+
+// Masala 17
+// function isVow(a) {
+//   return a.map((e) => {
+//     const harf = String.fromCharCode(e);
+//     return "aeiou".includes(harf) ? harf : e;
+//   });
+// }
+// console.log(isVow([100, 100, 116, 105, 117, 121]));
+
+// Masala 18
+
+// function greet(name) {
+//   return `Salom ${name} ahvollaring qalay`;
+// }
+// console.log(greet("sanjar"));
