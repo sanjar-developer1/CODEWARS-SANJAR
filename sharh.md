@@ -59,3 +59,13 @@ har bir sonni tekshirish kerak: u a, e, i, o, u harflarining char codeiga teng b
 
 Masala 18:
 Bizga function keladi undan bitta isim keladi biz uni "Salom 'name' ahvollaring qalay" deyishimiz kerak
+
+Masala 19:
+s1 va s2 — faqat kichik harflardan iborat ikkita string. Harflarni birlashtirib:
+
+Har bir harf faqat bir marta qatnashsin
+Alfavit tartibida joylashsin
+Natija — yangi string bo‘lsin
+
+Masala 20:
+Bizga massiv(array) keladi biz uni ichidan faqat number larni olishimisz kerak

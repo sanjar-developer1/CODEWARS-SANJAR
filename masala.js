@@ -207,3 +207,28 @@
 //   return `Salom ${name} ahvollaring qalay`;
 // }
 // console.log(greet("sanjar"));
+
+// Masala 19
+
+// function longest(s1, s2) {
+//   let str = s1 + s2;
+//   str = new Set(str);
+//   let abc = [...str];
+//   let a = abc.sort().join("");
+//   console.log(a);
+// }
+// longest("abc", "defc");
+
+// Masala 20
+
+// function filter_list(l) {
+//   let result = [];
+//   l.map((e) => {
+//     if (typeof e == "number") {
+//       result.push(e);
+//     }
+//   });
+//   console.log(result);
+// }
+
+// filter_list([1, 2, "a", "b"]);
