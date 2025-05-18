@@ -69,3 +69,9 @@ Natija — yangi string bo‘lsin
 
 Masala 20:
 Bizga massiv(array) keladi biz uni ichidan faqat number larni olishimisz kerak
+
+Masala 21:
+name va owner nomli ikkita parametr berilgan. Agar ular teng bo‘lsa, "Hello boss" chiqarsin, aks holda "Hello guest" chiqarsin.
+
+Masala 22:
+bu masalada 3 ta ball (score) beriladi, va ularning o‘rtacha qiymatiga qarab harfli baho (A, B, C, D, F) qaytarish kerak.

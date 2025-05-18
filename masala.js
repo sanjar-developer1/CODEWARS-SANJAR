@@ -232,3 +232,26 @@
 // }
 
 // filter_list([1, 2, "a", "b"]);
+
+// Masala 21
+// function greet(name, owner) {
+//   if (name === owner) {
+//     return "Hello boss";
+//   } else {
+//     return "Hello guest";
+//   }
+// }
+// greet("salom", "salom");
+
+// Masala 22
+
+// function getGrade(s1, s2, s3) {
+//   let son = (s1 + s2 + s3) / 3;
+
+//   if (son >= 90) return "A";
+//   else if (son >= 80) return "B";
+//   else if (son >= 70) return "C";
+//   else if (son >= 60) return "D";
+//   else return "F";
+// }
+// getGrade(30, 50, 40);
