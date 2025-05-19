@@ -75,3 +75,10 @@ name va owner nomli ikkita parametr berilgan. Agar ular teng bo‘lsa, "Hello bo
 
 Masala 22:
 bu masalada 3 ta ball (score) beriladi, va ularning o‘rtacha qiymatiga qarab harfli baho (A, B, C, D, F) qaytarish kerak.
+
+Masala 23:
+Soat tungi 00:00:00 (ya'ni midnight) dan keyin h soat, m daqiqa va s soniya o'tgan bo‘lsa, shunda shu vaqtni millisekundda hisoblab qaytaradigan funksiya yozing.
+
+Masala 24:
+Har bir harf ketma-ket bittadan katta (uppercase) qilib o‘zgartiriladi, qolganlari kichik bo‘lib qoladi.
+Bo‘sh joylar (space) ustidan o‘tiladi — ya'ni u joyda hech qanday “wave” qilinmaydi.

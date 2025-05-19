@@ -255,3 +255,30 @@
 //   else return "F";
 // }
 // getGrade(30, 50, 40);
+
+// Masala 23
+
+// function past(h, m, s) {
+//   // h = 3600 sekund
+//   // m = 60 minut
+//   // s=60 sekund
+//   // 1000 ga ko'paytiirishdan maqsa milliSekund
+//   return (h * 3600 + m * 60 + s) * 1000;
+// }
+// console.log(past(0, 1, 1));
+
+// Masala 24
+
+// function wave(str) {
+//   let result = [];
+
+//   for (let i = 0; i < str.length; i++) {
+//     if (str[i] === " ") continue;
+//     let newStr = str.slice(0, i) + str[i].toUpperCase() + str.slice(i + 1);
+
+//     result.push(newStr);
+//   }
+//   return result;
+// }
+
+// console.log(wave("salom"));
