@@ -286,8 +286,8 @@
 
 // Masala 25 
 
-function hello(hello) {
-    return hello
-}
+// function hello(hello) {
+//     return hello
+// }
 
-console.log(hello("Hello world!"));
+// console.log(hello("Hello world!"));
