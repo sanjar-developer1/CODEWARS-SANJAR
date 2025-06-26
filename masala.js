@@ -282,3 +282,12 @@
 // }
 
 // console.log(wave("salom"));
+
+
+// Masala 25 
+
+function hello(hello) {
+    return hello
+}
+
+console.log(hello("Hello world!"));

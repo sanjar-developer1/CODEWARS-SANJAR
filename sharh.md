@@ -82,3 +82,6 @@ Soat tungi 00:00:00 (ya'ni midnight) dan keyin h soat, m daqiqa va s soniya o'tg
 Masala 24:
 Har bir harf ketma-ket bittadan katta (uppercase) qilib o‘zgartiriladi, qolganlari kichik bo‘lib qoladi.
 Bo‘sh joylar (space) ustidan o‘tiladi — ya'ni u joyda hech qanday “wave” qilinmaydi.
+
+Masala 25:
+Oddiy hamma biladigan "Hello world" so'zini qaytarib turuvchi funksiya yozing
