@@ -291,3 +291,20 @@
 // }
 
 // console.log(hello("Hello world!"));
+
+
+// Masala 26
+
+function fakeBin(x) {
+    let son = x.replaceAll(1, 0)
+    son = son.replaceAll(2, 0)
+    son = son.replaceAll(3, 0)
+    son = son.replaceAll(4, 0)
+    son = son.replaceAll(6, 1)
+    son = son.replaceAll(7, 1)
+    son = son.replaceAll(8, 1)
+    son = son.replaceAll(9, 1)
+    return son;
+}
+
+console.log(fakeBin("45385593107843568"));

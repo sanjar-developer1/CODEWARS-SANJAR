@@ -85,3 +85,7 @@ Bo‘sh joylar (space) ustidan o‘tiladi — ya'ni u joyda hech qanday “wave�
 
 Masala 25:
 Oddiy hamma biladigan "Hello world" so'zini qaytarib turuvchi funksiya yozing
+
+Masala 26 
+Biz bu masalada 1 dan 5 gacha bo'lgan qiymatlarni 0 ga tenglash kerak
+5 dan 9 gacha bo'lganlarni esa 1 ga tenglash kerak
